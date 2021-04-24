@@ -1,15 +1,242 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="NOTICIAS", RT Español | HD
-https://secure-streams.akamaized.net/rt-esp/index.m3u8
 
 #EXTINF:-1,MULTIMEDIOS MONTERREY
-http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-#EXTINF:-1,MEXICO:RCG 1 Saltillo
-http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY JUNIOR" tvg-logo="" group-title="Infantiles",DISNEY JUNIOR
+http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/819.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY KIDS" tvg-logo="" group-title="Infantiles",DISCOVERY KIDS
+http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/822.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="CARTOON NETWOORK" tvg-logo="" group-title="Infantiles",CARTOON NETWOORK
+http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/826.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="UFC" tvg-logo="" group-title="Deportes",UFC
+http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/1382.ts.m3u8
 
 
+#EXTINF:-1 tvg-ID="" tvg-name="HBO" tvg-logo="http://www.imfranetx.com/wp-content/uploads/2015/04/HBO-EN-VIVO.jpg" group-title="Peliculas",HBO
+http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/1594.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="HBO PLUS ESTE" tvg-logo="http://appsclaro.com/canales/logos/hbo-plus.jpg" group-title="Peliculas",HBO PLUS ESTE
+http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/593.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/220px-HBO_Family_logo.png" group-title="Peliculas",HBO FAMILY
+http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/598.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="HBO 2" tvg-logo="http://www.eltecsa.com/logos/hbo2_lam.png" group-title="Peliculas",HBO 2
+http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/599.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2000px-HBO_Signature.svg.png" group-title="Peliculas",HBO SIGNATURE
+http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/592.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX CLASSICS" tvg-logo="http://3.bp.blogspot.com/-ZNZUnRwSXyo/VMf0ZtvKY-I/AAAAAAAAACY/HK_ur9NSdbI/s1600/Fox%2BClassics%2Ben%2Bvivo%2Bonline.jpg" group-title="Peliculas",FOX CLASSICS
+http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/608.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX ACTION" tvg-logo="http://foromedios.com/uploads/gallery/category_2/gallery_1163_2_3433.png" group-title="Peliculas",FOX ACTION
+http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/610.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX LIFE" tvg-logo="http://vignette3.wikia.nocookie.net/cumbianinja/images/a/a9/FOX_Life_Logo_Canal_Recortado_Transparente_.png/revision/latest?cb=20140817065331&path-prefix=es" group-title="Peliculas",FOX LIFE
+http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/605.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX COMEDY" tvg-logo="http://vignette2.wikia.nocookie.net/logosfake/images/c/c8/Fox_comedy.png/revision/latest?cb=20150716184256" group-title="Peliculas",FOX COMEDY
+http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/607.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX CHANNEL" tvg-logo="http://foromedios.com/uploads/gallery/album_2/gallery_1163_2_21584.png" group-title="Peliculas",FOX CHANNEL
+http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/262.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="TNT SERIES" tvg-logo="http://lagranciudad.net/home/wp-content/uploads/2015/03/Logo-TNT-Series.png" group-title="Peliculas",TNT SERIES
+http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/813.ts.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD (ES)" tvg-logo="https://imgur.com/CivEawL.png" group-title="Spanish",DISNEY XD (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/761.ts.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL (ES)" tvg-logo="https://imgur.com/CivEawL.png" group-title="Spanish",DISNEY CHANNEL (ES)
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/762.ts.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Us- WWE HD" tvg-logo="" group-title="USA",Us- WWE HD
+http://194.88.107.101:6204/live/ali03/ali03/10376.ts.m3u8
+
+
+
+#EXTINF:-1, hbo2 dual (eng esp) 
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="CINE", Fox Cinema 
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/fighttime.png" group-title="Deportes", Fight Time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x5jNF2N.png" group-title="Deportes", MLB
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Kkj5IF9.png"  group-title="Deportes", CDO Premium
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-2.gif" group-title="CINE", HBO 2 
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+
+#EXTINF:-1,CARTOON NETWORK 
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+
+#EXTINF:-1,MAXPRIME 
+http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
+
+#EXTINF:-1,UNIVERSALCH 
+http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
+
+#EXTINF:-1, fox premium comedy (eng) 
+http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
+
+#EXTINF:-1, ESPN 2 www.achoapps.com
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+
+#EXTINF:-1, Animal Planet www.achoapps.com
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+
+
+#EXTINF:-1,MULTIMEDIOS MONTERREY
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1,DW ESP
+http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_5_av-p.m3u8
+
+#EXTINF:-1,ESPN HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(06)/index.m3u8
+
+#EXTINF:-1,ESPN OK
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8
+
+#EXTINF:-1,ESPN 1 OK
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
+
+#EXTINF:-1,ESPN2 HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+
+#EXTINF:-1,DEPORTES:AD Sports 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1,DEPORTES:AD Sports 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1,DEPORTES:AD Sports 1 HD
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+
+#EXTINF:-1,DEPORTES:AD Sports 2 HD
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+
+#EXTINF:-1,INFANTILES:Trailer Tv Kids
+http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/chunklist_w194535224_b650000_sleng.m3u8
+
+#EXTINF:-1,INFANTILES:AnimeXtv
+http://locomotiontv.com/envivo/test/animextv_alpha_131017.m3u8
+
+#EXTINF:-1,NOTICIAS:DW Latino
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,MEXICO:Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,MEXICO:Multimedios
+http://mdstrm.com/live-stream-playlist/57b4db886338448314449cfa.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,MULTIMEDIOS
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?CeceGeek.m3u8
+
+#EXTINF:-1,Canal 5
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/index.m3u8
+
+#EXTINF:-1,MTV LIVE
+http://189.216.247.113/Content/HLS/Live/Channel(MTV_Live_HD)/index.m3u8
+
+#EXTINF:-1,GOLDEN PLUS
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/Stream(06)/index.m3u8
+
+#EXTINF:-1,SPACE HD
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
+
+#EXTINF:-1,TNT HD
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8
+
+#EXTINF:-1,NAT GEO WILD
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
+
+
+
+
+
+
+
+
+
+*** 24/7 ***
+
+
+#EXTINF:-1, DANIEL EL TRAVIESO (CLASICA)
+https://goo.gl/NH6e4m
+
+#EXTINF:-1, HARRY POTTER Y EL CALIZ DE FUEGO
+http://bit.ly/HARRYP4
+
+#EXTINF:-1, HARRY POTTER Y LA PIEDRA FILOSOFAL
+http://bit.ly/HARRYP1
+
+#EXTINF:-1, LA BELLA Y LA BESTIA (INFANTIL)
+http://bit.ly/MRAQCBELLA
+
+#EXTINF:-1, MI VIDA A LOS 17
+http://bit.ly/2v16m9z
+
+#EXTINF:-1,BLOOD IN BLOOD OUT/ VATOS LACOS
+http://www.deadlyblogger.com/NewRelease/blood.mp4
+
+
+#EXTINF:-1,[COLOR WHITE] [/COLOR] NICK
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
+
+#EXTINF:-1,[COLOR WHITE] [/COLOR] NICK_JR
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
+
+
+#EXTINF:-1,Infantil:c La bella y la bestia
+http://tecnotv.xyz/id=multi20/peliculas/labellaylabestia.php
+
+#EXTINF:-1,a Super 3
+http://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:c33_web/chunklist_b1296000.m3u8
+
+#EXTINF:-1 group-title="Estrenos",c Moana
+http://cecegeek@goo.gl/FQ2PRH
+
+
+
+*** Infantil ***
+
+#EXTINF:-1,DISTRITO COMEDIA
+http://189.216.247.113/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/index.m3u8
+
+#EXTINF:-1,NBA_TV
+http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
+
+#EXTINF:-1,TDN
+http://189.216.247.113/Content/HLS/Live/Channel(TDN)/index.m3u8
+
+#EXTINF:-1,UNIVISION_TDN
+http://189.216.247.113/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
+
+#EXTINF:-1, SPACE HD
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(06)/index.m3u8
+
+#EXTINF:-1,Canal 5 HD
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(06)/index.m3u8
+
+#EXTINF:-1,ESPN HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1,ESPN2 HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(04)/index.m3u8
 
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" tvg-url="" group-title="DEPORTES",Claro Sports (1080p)
 https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
@@ -367,5 +594,436 @@ http://tvpremiumhd.club/lista-gratuita/183823/on/lives.php?id=archive.org/downlo
 #EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/10/jigsaw-poster.jpg",JIGSAW VIII
 http://tvpremiumhd.club/lista-gratuita/183823/on/lives.php?id=archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
 
+#EXTINF:-1 tvg-logo="https://gfx.videobuster.de/archive/v/cwiIRYplRhEAbg_kzaC5YDAcz0lMkawqCUyRqglMkZpbWGZJTJGanBlZyUyRmIwZt3ZMmExYTRlYmTy6_AxZGKpNWNmZDFlLmpwZyZyPXfvOA/prometheus.jpg" group-title="MOVIES",Prometeus 2012 HD
+https://archive.org/download/PROMEPELIXMAX1/PROMEPELIXMAX1.mp4
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/55/b1/f9/55b1f928966e3936dc58d91f6a6662e5.jpg" group-title="MOVIES",Interstellar
+https://archive.org/download/Interstellar20014PelixMax/Interstellar%20(2014).mp4
+
+#EXTINF:-1 tvg-logo="http://www.tangodiscos.com.co/sites/default/files/7707334658640.jpg" group-title="MOVIES" group-title="MOVIES",Los Ilusionistas
+https://ia601907.us.archive.org/25/items/Los.Ilusionistas/Los.Ilusionistas.mp4
+
+#EXTINF:-1 tvg-logo="https" group-title="MOVIES",Cars 2
+https://ia800801.us.archive.org/30/items/MilOchoMil005/MilOchoMil_005.mp4
+
+#EXTINF:-1 tvg-logo="https" group-title="MOVIES",Alicia En El Pais de Las Maravillas
+https://ia800809.us.archive.org/16/items/MilOchoMil001/MilOchoMil_001.mp4
+
+#EXTINF:-1 tvg-logo="https" group-title="MOVIES",VALERIAN Y LA CIUDAD DE MIL PLANETAS
+https://ia800803.us.archive.org/21/items/ValeSRREGIO/ValeSRREGIO.mp4
+
+#EXTINF:-1 tvg-logo="https" group-title="MOVIES",ATOMICA
+https://ia800101.us.archive.org/27/items/AtoSRRegio/AtoSRRegio.mp4
+
+#EXTINF:-1 tvg-logo="https" group-title="MOVIES",La Momia
+https://ia600801.us.archive.org/23/items/CalaveraTieneHambre/calavera%20tiene%20hambre.mp4
+
+#EXTINF:-1 tvg-logo="https" group-title="MOVIES",HUYE GET OUT
+https://ia800803.us.archive.org/14/items/Cheverefans0012017/cheverefans%200012017.mp4
+
+#EXTINF:-1 tvg-logo="https" group-title="MOVIES",STRIPTEASE
+https://ia800803.us.archive.org/22/items/Cheverefans0032017.mkv/Cheverefans%200032017.mkv.mp4
+
+#EXTINF:-1 tvg-logo="https" group-title="MOVIES",Bambi
+https://ia800804.us.archive.org/12/items/MilOchoMil003/MilOchoMil_003.mp4
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/pyikxp92lwce7jz/daniel.jpg" group-title="MOVIES", DANIEL EL TRAVIESO (CLASICA)
+https://ia800605.us.archive.org/3/items/31052017_201705678678687687/31052017.mp4
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/19pm1z4zr8if9gh/deadpool.jpg" group-title="MOVIES",Deadpool
+https://ia800108.us.archive.org/24/items/DeSRREGIO_201802/DeSRREGIO.mp4
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/puuppo3e30bknzg/civilwar.jpg" group-title="MOVIES",Civil War
+https://ia800103.us.archive.org/23/items/CiWaSRREGIO/CiWaSRREGIO.mp4
+
+#EXTINF:-1 tvg-logo="https://lasentinel.net/wp-content/uploads/sites/5/2017/11/ENT-Mudbound_IMG-2.jpg", Mudbound |
+http://srregio.xyz/mudbound
+
+#EXTINF:-1 tvg-logo="https://www.elmulticine.com/imagenes/carteles/7/inside-cartel-b.jpg", Terror en la Oscuridad CAST |
+http://srregio.xyz/insidecast
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/teaser-trailer.com/wp-content/uploads/The-Cured-Philippines-poster.jpg?ssl=1", The Cured |
+http://srregio.xyz/thecure
+
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/r_1280_720/medias/nmedia/18/66/99/88/20350578.jpg", Los Extranos |
+http://regiotv.xyz/losextranos
+
+#EXTINF:-1 tvg-logo="https://dld73rc7kvi9r.cloudfront.net/cineimage/poster/large/banner-5857152831507565202.jpg", Hasta Pronto Christoper Robin |
+http://regiotv.xyz/christoperrobin
+
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/medias/nmedia/18/86/21/14/19828283.jpg", Talento De Barrio | T
+http://regiotv.xyz/talentodebarrio
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QhVGoY0iE7o/WlO7gegXBkI/AAAAAAAACHs/VM5rexxAYVUhfula67f7r7gpOuq_6akIgCLcBGAs/s1600/Mom%2BAnd%2BDad.jpg", Mom & Dad SUB |
+http://regiotv.xyz/momanddad
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QhVGoY0iE7o/WlO7gegXBkI/AAAAAAAACHs/VM5rexxAYVUhfula67f7r7gpOuq_6akIgCLcBGAs/s1600/Mom%2BAnd%2BDad.jpg", Mom & Dad |
+http://regiotv.xyz/momanddadLAT
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/24_horas_para_vivir.jpg", 24hrs Para Sobrevivir SUB |
+http://regiotv.xyz/24hrssobrevivir
+
+#EXTINF:-1 tvg-logo="http://style.shockvisual.net/wp-content/uploads/2018/04/pesadilla.jpg", Pesadilla Siniestra |
+http://regiotv.xyz/pesadillasiniestra
+
+#EXTINF:-1 tvg-logo="http://fdzeta.com/subir/images/jLGYP.jpg", Todo Poderoso |
+https://bit.ly/2GajoTS
+
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/14/03/04/12/57/369750.jpg", American Pie |
+https://bit.ly/2KS5ucG
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/95/6e/17/956e17f1164ebb2a6d9a95e6a89f4041.jpg", La Leyenda de la Nahuala |
+https://bit.ly/2wBzaYz
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-nFLhtyQDFR4/Vux-PnZCpZI/AAAAAAAAirU/F3mcY7HNSn067Zy3LkRDonZbjMMM3GxkQ/s00/Que_Culpa_Tiene_el_Ni%25C3%25B1o_Poster_JPosters.jpg", Que Culpa Tiene el Nino |
+https://bit.ly/2wBG4x8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/cdn.cinepapaya.com/stat/img/static-cp/cine/movietranslation/3-idiotas-poster-1494884216.jpg?resize=692%2C1024&ssl=1", 3 idiotas |
+http://srregio.xyz/regioflix/3idiotas
+
+#EXTINF:-1 tvg-logo="http://www.cailegdl.com/wp-content/uploads/2018/03/red_sparrow_poster.jpg", Operacion Red Sparrow |
+http://regiotv.xyz/regioflix/redsparrow
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-0dx-Z5jsVyw/Ws5bDjzstgI/AAAAAAAAoq0/Cbhps_UNSJQN_dBN7i16qSUUuH2PWjiMQCLcBGAs/s1600/Anon_Poster_UK_JPosters.jpg", Anon |
+http://srregio.xyz/regioflix/anon
+
+#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/592f3443db29d6c96a19b5dc/t/59f10287b7411c32b423485c/1508967068270/Samson.png", Samson |
+http://srregio.xyz/regioflix/samson
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-C2P_LCyOn6Q/WjJGd2Z-JZI/AAAAAAAAaiU/RU9mzczQwWgHFqvl__LPSRH9gn5yYsW4ACLcBGAs/s1600/1517%2Btres%2Ba%2Bparis.jpg", 15:17 Tren a Paris |
+http://srregio.xyz/regioflix/trenaparis
+
+#EXTINF:-1 tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/media/imagenes/recursos/js/137663962-1-esl-ES/js.jpg", SAW VIII SUBTITULADO |
+https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn.cinematerial.com/p/297x/i38iqtjb/konvert-russian-movie-poster-md.jpg", Konvert SUBTITULADO |
+https://archive.org/download/KonSRREGIO/KonSRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="https://images.moviepilot.com/images/c_limit,q_auto:good,w_600/gr7omjwa0gueamswfgbc/jeepers-creepers-3-poster-revealed-but-are-the-fan-posters-better.jpg", Jeepers Creepers 3 |
+https://archive.org/download/JeeCre3SRREGIO/JeeCre3SRREGIO.mkv
+
+#EXTINF:-1 tvg-logo="http://images.eonline.com/eol_images/Entire_Site/2014516//rs_634x939-140616200855-634.Guardians-of-the-Galaxy-Posters.1.ms.061614.jpg", Guardianes de la Galaxia | ACHOAPPS.com
+https://goo.gl/sFaEVq
+
+#EXTINF:-1,Alicia En El Pais de Las Maravillas
+http://cecegeek@goo.gl/QupTmL
+
+#EXTINF:-1,ESTRENOS:DANIEL EL TRAVIESO (CLASICA)
+http://bit.ly/DANIELELTRAVIESO_MOVIE
+
+#EXTINF:-1,ESTRENOS:LA BELLA DURMIENTE (CLASICA)
+http://bit.ly/LABELLAMOVIE
+
+#EXTINF:-1,ESTRENOS:THE EVIL WITHIN (2017)
+http://bit.ly/EVILWITHIN_MOVIE
+
+#EXTINF:-1,ESTRENOS:THE MINE (2017)
+http://bit.ly/THEMINE
+
+#EXTINF:-1,ESTRENOS:SAHARA (2017)
+http://bit.ly/SAHARAMOVIE
+
+#EXTINF:-1,ESTRENOS:Mascota Humana (2016)
+http://bit.ly/MASCOTAHUMANA
+
+#EXTINF:-1,ESTRENOS:Sandy Wexler (2017)
+http://bit.ly/MRAQCSAND
+
+#EXTINF:-1,ESTRENOS:Sand Castle (2017)
+http://bit.ly/MRAQCASTI
+
+#EXTINF:-1,Bambi 2
+http://cecegeek@goo.gl/hfgaAx
+
+#EXTINF:-1,Bambi
+http://cecegeek@goo.gl/6PpjEq
+
+#EXTINF:-1,Cars 2
+http://cecegeek@goo.gl/G2MucQ
+
+#EXTINF:-1,La Bella Y La Bestia
+http://cecegeek@goo.gl/65yzGX
+
+#EXTINF:-1,LA LEYENDA DE LA NAHUALA
+https://ia600809.us.archive.org/15/items/LaLeyendaDeLaNahuala/La%20Leyenda%20De%20La%20Nahuala.mp4
+
+#EXTINF:-1,CASPER
+https://ia800809.us.archive.org/12/items/casper_201709/casper.mp4
+
+#EXTINF:-1,TODO PODEROSO
+https://ia800808.us.archive.org/5/items/TodoPoderoso_201709/todo%20poderoso.mp4
+
+#EXTINF:-1,VIRAL
+https://ia600805.us.archive.org/13/items/viral_201709/viral.mp4
+
+#EXTINF:-1,CHUCKY 1
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!841&authkey=!AKlwdk4JdAep8kc&ithint=video%2cmp4
+
+#EXTINF:-1,CHUCKY 2
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!843&authkey=!AI3_Mz6ivD6r9oM&ithint=video%2cmp4
+
+#EXTINF:-1,CHUCKY 3
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!854&authkey=!AMqj_KRCJnKhYTw&ithint=video%2cmp4
+
+#EXTINF:-1,LA NOVIA DE CHUCKY
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSBrXTX9RUVsnU&ithint=video%2cmp4
+
+#EXTINF:-1,Atomica
+https://archive.org/download/AtoSRRegio/AtoSRRegio.mkv
+
+#EXTINF:-1,Alien Covenant
+http://ow.ly/SgXZ30eXN93?CONEXION?null=
+
+#EXTINF:-1,Melanie Apocalipsis Zombie
+https://archive.org/download/meapzoSRRREGIO/meapzoSRRREGIO.mkv
+
+#EXTINF:-1,el gran robo
+http://discontrol@media-es-am.crackle.com/1/d/d0/dspyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1,el dia del apocalipsis
+http://discontrol@media-es-am.crackle.com/1/d/_0/0kpyk_480p_1mbps.mp4?disco
+
+#EXTINF:-1,La Fuerza De La Ilusion
+https://archive.org/download/LFdlISRREGIO/LFdlISRREGIO.mkv
+
+#EXTINF:-1,Cuando nos Conocimos
+https://archive.org/download/CuNoCoSRREGIO/CuNoCoSRREGIO.mkv
+
+#EXTINF:-1,0182268_AL_.jpg" Nosotros Los Nobles | SRREGIO.NET
+https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+
+#EXTINF:-1,The Cloverfield Paradox
+https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
+
+#EXTINF:-1,Terminus
+https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
+#EXTINF:-1,Deadpool
+https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
+
+#EXTINF:-1,Intensamente | ACHOAPPS.com
+https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
+
+#EXTINF:-1,JIGSAW VIII | ACHOAPPS.com
+https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
+
+#EXTINF:-1,Redada Asesina | ACHOAPPS.com
+https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
+
+#EXTINF:-1,Civil War | ACHOAPPS.com
+https://archive.org/download/CiWaSRREGIO/CiWaSRREGIO.mkv
+
+#EXTINF:-1,Fragiles | ACHOAPPS.com
+https://archive.org/download/FraSRREGIO/FraSRREGIO.mkv
+
+#EXTINF:-1,Zombiology | ACHOAPPS.com
+https://archive.org/download/Zy.SRREGIO/Zy.SRREGIO.mkv
+
+#EXTINF:-1,La Noche de la Bruja | ACHOAPPS.com
+https://archive.org/download/howibr.SRREGIO/h0us3.0f.th3.w1tch.SRREGIO.mkv
+
+#EXTINF:-1,Quija | ACHOAPPS.com
+https://archive.org/download/quiSRREGIO/quiSRREGIO.mkv
+
+#EXTINF:-1,Valerian y la ciudad de los mil planetas | ACHOAPPS.com
+https://archive.org/download/ValeSRREGIO/ValeSRREGIO.mkv
+
+#EXTINF:-1,Huye | ACHOAPPS.com
+https://ia601500.us.archive.org/27/items/Cheverefans0012017/cheverefans%200012017.mp4?null=
+
+#EXTINF:-1,SAHARA (2017)
+https://ia801603.us.archive.org/20/items/3453453453454456456456465/17052017_fseer.mp4?PelixMax1.mp4
+
+#EXTINF:-1,Pitufos 3: La Aldea Perdida
+https://ia801508.us.archive.org/9/items/27062017AQCJFJKGFKG86903485I5/27062017_AQC.mkv
+
+#EXTINF:-1,Cars 2 2011
+https://ia601509.us.archive.org/31/items/MilOchoMil005/MilOchoMil_005.mp4?earMy.mp4
+
+#EXTINF:-1,THE MINE (2017)
+https://ia801603.us.archive.org/20/items/24052017Aqc789423784723984/24052017_aqc.mkv?PelixMax1.mkv
+
+#EXTINF:-1,LA MINA (2017)
+https://archive.org/download/24052017Aqc789423784723984/24052017_aqc.mkv?Pelixmax1.mkv
+
+#EXTINF:-1,PelixMax 1: Castillo de Arena (2017)
+https://archive.org/download/08052017CAQM8844JR8HF/08052017CAQM.mkv?Pelixmax1.mkv
+
+#EXTINF:-1,Sandy Wexler HD(2017) (Dual Audio)
+https://ia801603.us.archive.org/20/items/04052017AQMCMA04052017AQC/04052017AQMCMA.mkv?Pelixmax1.mkv
+
+#EXTINF:-1,DANIEL EL TRAVIESO (CLASICA)
+https://archive.org/download/31052017_201705678678687687/31052017.mkv?Pelixmax1.mkv
+
+#EXTINF:-1,PelixMax 1: El Mal Dentro (2017)
+https://archive.org/download/01062017Aqc782937187398721893/01062017_aqc.avi?Pelixmax1.avi
+
+#EXTINF:-1,Chucky El MuÃ±eco Diabolico (TERROR)
+https://archive.org/download/080520712070508aCh/08052071.mkv?Pelixmax1.mp4
+
+#EXTINF:-1,Chucky El MuÃ±eco Diabolico II (TERROR)
+https://archive.org/download/08052017Ch2320170508/08052017_ch23.mkv?Pelixmax1.mp4
+
+#EXTINF:-1,IT (Eso) 2017 Cam/Cine
+https://ia601504.us.archive.org/25/items/ItPelixMax12017CAMLatino1/ItPelixMax1.mp4
+
+#EXTINF:-1,La Bella Y La Bestia (INFANTIL)
+https://archive.org/download/06052017MYO5MYO06052017/06052017_MYO5.mkv?Pelixmax1.mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="VOD A LA CARTA",Llámame por tu nombre(2017)
 http://tvpremiumhd.club/lista-gratuita/183823/on/vod.php?cid=4E8775F59D59D879&resid=4E8775F59D59D879%21107&authkey=AN_GEIGV5uWL3eY
+
+#EXTINF:-1 tvg-ID="" tvg-name="American Dad 24/7" tvg-logo="https://images6.alphacoders.com/807/thumb-350-807458.jpg" group-title="24/7",American Dad 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/735.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Batman 1966 24/7" tvg-logo="http://images2.fanpop.com/images/photos/6400000/Batman-1966-batman-6426733-500-375.gif" group-title="24/7",Batman 1966 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/741.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="BATMAN Brave and the Bold 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Batman_The_Brave_and_the_Bold_logo.svg/1200px-Batman_The_Brave_and_the_Bold_logo.svg.png" group-title="24/7",BATMAN Brave and the Bold 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/742.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Batman the Animated Series 24/7" tvg-logo="https://vignette.wikia.nocookie.net/batman/images/0/0e/AnimatedLogo.png" group-title="24/7",Batman the Animated Series 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/743.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Bobs burgers 24/7" tvg-logo="https://www.highreshdwallpapers.com/wp-content/uploads/2017/05/Bobs-Burgers-Wallpaper.jpg" group-title="24/7",Bobs burgers 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/744.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="BREAKING BAD 24/7" tvg-logo="https://i.ytimg.com/vi/Xh4MienhS5M/maxresdefault.jpg" group-title="24/7",BREAKING BAD 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/745.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Buffy the Vampire Slayer 24/7" tvg-logo="https://www.highreshdwallpapers.com/wp-content/uploads/2014/06/Buffy-The-Vampire-Slayer-Love-Sucks.jpg" group-title="24/7",Buffy the Vampire Slayer 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/746.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Cheers 24/7" tvg-logo="https://www.highreshdwallpapers.com/wp-content/uploads/2014/06/Cheers-Opening-Title.jpg" group-title="24/7",Cheers 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/747.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Chris Rock Stand Up 24/7" tvg-logo="https://i.pinimg.com/236x/46/5b/2f/465b2fedefaca758b2a0b063701fe1be--chris-rock-chris-delia.jpg" group-title="24/7",Chris Rock Stand Up 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/748.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="DALLAS 24/7" tvg-logo="http://images5.fanpop.com/image/photos/32000000/Dallas-Cast-dallas-tv-show-32029511-500-333.jpg" group-title="24/7",DALLAS 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/750.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="DEXTER 24/7" tvg-logo="http://beta.ems.ladbiblegroup.com/s3/content/808x455/61d1ce265aab40fb87a5e9ef8e5ed772.png" group-title="24/7",DEXTER 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/1139.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Downton Abbey 24/7" tvg-logo="https://ia.media-imdb.com/images/M/MV5BY2U1NmIwYzgtNjFkOS00YWUxLTg0YTMtZmE5NTA3YjRmY2NlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="24/7",Downton Abbey 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/1140.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Dragon Ball Z 24/7" tvg-logo="https://img00.deviantart.net/1958/i/2011/327/1/8/logos_007___dragon_ball_007_by_vicdbz-d2n5cey.png" group-title="24/7",Dragon Ball Z 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/753.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Entourage 24/7" tvg-logo="http://images2.fanpop.com/images/photos/3600000/Entourage-ari-gold-3651982-1024-768.jpg" group-title="24/7",Entourage 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/754.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Frasier 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Frasier_Logo.JPG/250px-Frasier_Logo.JPG" group-title="24/7",Frasier 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/757.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Fresh Prince of Bel Air 24/7" tvg-logo="http://images6.fanpop.com/image/photos/40400000/FPOBA-02-the-fresh-prince-of-bel-air-40424082-1440-1080.jpg" group-title="24/7",Fresh Prince of Bel Air 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/758.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Friends 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Friends_logo.svg" group-title="24/7",Friends 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/759.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Futurama 24/7" tvg-logo="https://wallpapercave.com/wp/Bnn63dH.jpg" group-title="24/7",Futurama 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/760.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Game of Thrones 24/7" tvg-logo="http://crewofone.com/wp-content/uploads/2015/01/Gotham-Wallpaper.jpg" group-title="24/7",Game of Thrones 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/761.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Glow 24/7" tvg-logo="https://i0.wp.com/disarmmagazine.com/wp-content/uploads/2017/07/fmlhguef.jpg?fit=400%2C400&ssl=1" group-title="24/7",Glow 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/827.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Happy Days 24/7" tvg-logo="https://tvfiles.alphacoders.com/231/poster-thumb-2315.jpg" group-title="24/7",Happy Days 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/763.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Johny Test 24/7" tvg-logo="https://i.pinimg.com/originals/a1/05/bf/a105bfe91ea20e1715367ab14a5e9648.jpg" group-title="24/7",Johny Test 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/765.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Kevin Hart Stand Up 24/7" tvg-logo="https://s1.cdn.autoevolution.com/images/news/kevin-hart-plays-the-bad-boy-father-in-hyundai-first-date-ad-104303_1.jpg" group-title="24/7",Kevin Hart Stand Up 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/766.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="King of the Hill 24/7" tvg-logo="http://images.fanpop.com/images/image_uploads/King-of-the-Hill-Wallpaper-king-of-the-hill-161751_1024_768.jpg" group-title="24/7",King of the Hill 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/767.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Knight Rider 24/7" tvg-logo="https://icdn4.digitaltrends.com/image/knight-rider-reboot-720x720.jpg" group-title="24/7",Knight Rider 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/1143.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Looney Tunes 24/7" tvg-logo="https://www.firstcomicsnews.com/wp-content/uploads/2017/02/looney-tunes-logo-1-600x257.png" group-title="24/7",Looney Tunes 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/769.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Married with Children 24/7" tvg-logo="https://images.tbs.com/tbs/$dyna_params/https%3A%2F%2Fi.cdn.tbs.com%2Fassets%2Fimages%2F2017%2F03%2Fvizio-married-with-children-960x1440.png" group-title="24/7",Married with Children 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/771.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Mr Bean 24/7" tvg-logo="http://images1.fanpop.com/images/photos/1400000/Mr-Bean-mr-bean-1415091-500-375.jpg" group-title="24/7",Mr Bean 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/777.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Paw Patrol 24/7" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71ETVZDJDzL._SX355_.jpg" group-title="24/7",Paw Patrol 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/779.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Peter Kay Stand Up 24/7" tvg-logo="http://documentarybox.com/wp-content/uploads/2016/04/1461630642_maxresdefault.jpg" group-title="24/7",Peter Kay Stand Up 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/780.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Pokemon 24/7" tvg-logo="http://alssportscardsandgaming.com/wordpress/wp-content/uploads/2012/09/pokemon-logo.gif" group-title="24/7",Pokemon 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/782.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Prison Break 24/7" tvg-logo="http://www.imaginefm.net/wp-content/uploads/2016/05/Prison-Break.jpg" group-title="24/7",Prison Break 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/809.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Roseanne 24/7" tvg-logo="http://images5.fanpop.com/image/photos/30700000/Roseanne-roseanne-30765270-500-313.jpg" group-title="24/7",Roseanne 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/785.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Scobby  Doo 24/7" tvg-logo="http://images6.fanpop.com/image/photos/32400000/Aries-Twins-Favorites-Cartoons-Scooby-Doo-anj-and-jezzi-the-aries-twins-32478514-500-375.jpg" group-title="24/7",Scobby  Doo 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/786.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Spider Man 24/7" tvg-logo="https://i.ytimg.com/vi/yj5fKf5GGVI/maxresdefault.jpg" group-title="24/7",Spider Man 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/791.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Spongebob 24/7" tvg-logo="https://i.ytimg.com/vi/0cMCo7lyQoY/maxresdefault.jpg" group-title="24/7",Spongebob 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/1147.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Stranger Things 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa4XPqPzkX7rV8vz_R3aiEFB4zUvdCAAx8CgsLsL_OlzD-Tk0CFg" group-title="24/7",Stranger Things 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/811.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="The Big Bang Theory 24/7" tvg-logo="https://images5.alphacoders.com/783/thumb-1920-783359.jpg" group-title="24/7",The Big Bang Theory 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/812.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="The IT Crowd 24/7" tvg-logo="http://images5.fanpop.com/image/photos/30700000/The-IT-Crowd-3-roy-and-jen-the-it-crowd-30769205-1680-1050.jpg" group-title="24/7",The IT Crowd 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/797.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="The Munsters 24/7" tvg-logo="http://images6.fanpop.com/image/photos/32600000/-The-Munsters-the-munsters-32612944-500-375.jpg" group-title="24/7",The Munsters 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/799.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="The Regular Show 24/7" tvg-logo="https://i.cdn.turner.com/v5cache/CARTOON/site/Images/i74/reg_tv-pg-v.png" group-title="24/7",The Regular Show 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/828.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="The Simpsons 24/7" tvg-logo="http://www.cartoonswallpapers.net/wallpapers/simpsons-family-introduction-hd-wallpaper-tablet.jpg" group-title="24/7",The Simpsons 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/800.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="The Sopranos 24/7" tvg-logo="http://www.desktop-screens.com/data/out/115/3548053-the-sopranos-wallpapers.jpg" group-title="24/7",The Sopranos 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/801.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="The Spectacular Spider man 24/7" tvg-logo="https://i.ytimg.com/vi/Q4DYDz39wow/maxresdefault.jpg" group-title="24/7",The Spectacular Spider man 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/802.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="The Walking Dead 24/7" tvg-logo="http://allfreewallpaper.com/wp-content/uploads/2017/08/the-walking-dead-characters-hd-wallpaper.jpg" group-title="24/7",The Walking Dead 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/803.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="True Blood 24/7" tvg-logo="https://ia.media-imdb.com/images/M/MV5BMDVjZDQ2N2MtMzMxYy00ZjliLTg5YjAtNjk1OTUwYjVjNWQ0XkEyXkFqcGdeQXVyNzA5NjUyNjM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="24/7",True Blood 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/1145.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Two and a Half Men 24/7" tvg-logo="https://ia.media-imdb.com/images/M/MV5BOTI2MjIzN2ItZDg0OS00MTlhLWIzMTMtYWI4ZTA0NGE4NDJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR0,0,182,268_AL_.jpg" group-title="24/7",Two and a Half Men 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/1146.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="US Stand Up 24/7" tvg-logo="" group-title="24/7",US Stand Up 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/806.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Westworld 24/7" tvg-logo="https://thevpn.guru/wp-content/uploads/2018/02/How-to-Watch-Westworld-Season-2-Online.jpg" group-title="24/7",Westworld 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/2179.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Will and Grace 24/7" tvg-logo="http://www.durfee.net/will/images/btn_cast.jpg" group-title="24/7",Will and Grace 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/813.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Vengadores: Infinity War" tvg-logo="http://zial2.mine.nu:8000/images/rDLmMzkaFMFWF1UnnlboMfifVXM_small.jpg" group-title="Aventuras",Vengadores: Infinity War
+http://aleman.mine.nu:8000/movie/PZiS6pFZmL/ZysUvDAXCk/3276.mp4
+
+
